@@ -39,7 +39,9 @@ I combine my scientific training with analytical and programming skills to gain 
 
 -------
 
-----
+
+<details>
+<summary>Español</summary>
 
 # 👋 ¡Hola! Soy María Payró  
 
@@ -82,3 +84,4 @@ Combino mi formación científica con habilidades analíticas y de programación
 > “Transformar datos en conocimiento es una forma de crear impacto real.”  
 
 ---
+</details> 
