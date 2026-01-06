@@ -55,6 +55,27 @@
 
 ---
 
+Chatgpt
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mariapayro&theme=dark&hide_border=true)
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mariapayro&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariapayro&layout=compact&theme=dark)
+
+
+
+Gemini
+### 🔥 Mis Rachas de Código
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapayro&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
 ### 🧪 Prueba de Diagnóstico
 ![Prueba](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
