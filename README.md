@@ -20,7 +20,7 @@ I am a **Data Scientist** with a master's degree in **Bioinformatics**, so I mer
 
 - 🧬 I have experience in various **genomic data analyses**, such as sequence alignment, variant calling, PCA, LDA, and GWAS.
 - 🤖 I specialize in using **machine learning (Python/R)** approaches to discover patterns in biological data, such as their association with diseases.
-- - 🔭 I have worked on **molecular modeling** of proteins and performed **molecular docking** and **virtual screening** methodologies.
+- 🔭 I have worked on **molecular modeling** of proteins and performed **molecular docking** and **virtual screening** methodologies.
 - 🚀 I am looking to further develop my skills in a bioinformatics position in the **Pharma, Biotech, or Data Consulting** sectors.
 
 ---
@@ -61,8 +61,7 @@ I am a **Data Scientist** with a master's degree in **Bioinformatics**, so I mer
 
 ---
 
-> “Transforming data into knowledge is a way to create real impact.”  
-
+> “ Data can hold many secrets, it's out job to find them :) " 
 ---
 
 
